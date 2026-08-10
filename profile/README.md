@@ -1,9 +1,7 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/Forless-ai/.github/main/logo.png" width="240" alt="FORLESS">
 </p>
-![Website](https://img.shields.io/badge/Website-forless.ai-blue)
-![Pricing](https://img.shields.io/badge/From-$5.99/year-orange)
-![Platform](https://img.shields.io/badge/AI-Website%20Builder-blue)
+
 <h1 align="center">FORLESS</h1>
 
 <p align="center">
@@ -17,11 +15,15 @@ Create a professional website in about 60 seconds.
 <p align="center">
 🌐 https://www.forless.ai
 </p>
+<p align="center">
 Helping millions of small businesses build a professional online presence without coding or expensive subscriptions.
+</p>
 
 <p align="center">
 <a href="https://www.forless.ai">Website</a> •
-<a href="https://www.forless.ai/billing/plans">Pricing</a>
+  
+<a href="https://www.forless.ai/billing/plans">Pricing</a> •
+
 <a href="https://www.forless.ai/help-center">Help Center</a> •
 
 </p>
