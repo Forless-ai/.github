@@ -9,24 +9,20 @@ The easiest and most affordable website builder for small businesses.
 </p>
 
 <p align="center">
-Create a professional website in about 60 seconds.
+Create a professional website in 60 seconds.
 </p>
 
 <p align="center">
 🌐 https://www.forless.ai
 </p>
 <p align="center">
-Helping millions of small businesses build a professional online presence without coding or expensive subscriptions.
+Helping millions of small businesses build a professional online presence — for less than a cup of coffee.
 </p>
 
 <p align="center">
-  
 <a href="https://www.forless.ai">Website</a> •
-  
 <a href="https://www.forless.ai/billing/plans">Pricing</a> •
-
 <a href="https://www.forless.ai/help-center">Help Center</a> •
-
 </p>
 
 
