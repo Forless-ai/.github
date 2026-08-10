@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Forless-ai/.github/main/logo.png" alt="FORLESS Logo" width="220">
+</p>
+
 # FORLESS
 
 ### The easiest and most affordable website builder for small businesses.
