@@ -1,14 +1,31 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Forless-ai/.github/main/logo.png" alt="FORLESS Logo" width="220">
+  <img src="https://raw.githubusercontent.com/Forless-ai/.github/main/logo.png" width="240" alt="FORLESS">
 </p>
 
-# FORLESS
+<h1 align="center">FORLESS</h1>
 
-### The easiest and most affordable website builder for small businesses.
+<p align="center">
+The easiest and most affordable website builder for small businesses.
+</p>
 
-**Create a professional website in 60 seconds.**
+<p align="center">
+Create a professional website in about 60 seconds.
+</p>
 
+<p align="center">
 🌐 https://www.forless.ai
+</p>
+
+<p align="center">
+
+<a href="https://www.forless.ai">Website</a> •
+<a href="https://www.forless.ai/blog">Blog</a> •
+<a href="https://www.forless.ai/help-center">Help Center</a> •
+<a href="https://www.forless.ai/billing/plans">Pricing</a>
+
+</p>
+
+
 
 
 
